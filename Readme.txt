@@ -1,0 +1,1 @@
+pyhton3 -m pip install textblob tweepy matplotlib
